@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: 'postgres:latest'
+    environment:
+      - 'POSTGRES_DB=javarecipesapp'
+      - 'POSTGRES_PASSWORD=Admin123'
+      - 'POSTGRES_USER=casper'
+    ports:
+      - '5432:5432'

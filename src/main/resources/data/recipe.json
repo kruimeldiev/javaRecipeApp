@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Bolognese",
+        "description": "A classic Italian pasta dish with rich, meaty sauce.",
+        "timeInMinutes": 45,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "title": "Chicken Curry",
+        "description": "A spicy and flavorful Indian curry made with tender chicken pieces.",
+        "timeInMinutes": 60,
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "title": "Caesar Salad",
+        "description": "A fresh and crunchy salad with romaine lettuce, croutons, and Caesar dressing.",
+        "timeInMinutes": 15,
+        "rating": 4.3
+    },
+    {
+        "id": 4,
+        "title": "Beef Tacos",
+        "description": "Delicious Mexican-style tacos with seasoned beef, cheese, and salsa.",
+        "timeInMinutes": 30,
+        "rating": 4.8
+    },
+    {
+        "id": 5,
+        "title": "Vegetable Stir-fry",
+        "description": "A quick and healthy stir-fry with a mix of colorful vegetables.",
+        "timeInMinutes": 20,
+        "rating": 4.2
+    },
+    {
+        "id": 6,
+        "title": "Chocolate Cake",
+        "description": "A rich and moist chocolate cake topped with creamy chocolate frosting.",
+        "timeInMinutes": 90,
+        "rating": 4.9
+    },
+    {
+        "id": 7,
+        "title": "Tomato Soup",
+        "description": "A comforting and creamy tomato soup made with fresh tomatoes.",
+        "timeInMinutes": 25,
+        "rating": 4.1
+    },
+    {
+        "id": 8,
+        "title": "Grilled Cheese Sandwich",
+        "description": "A simple yet satisfying sandwich with melted cheese and crispy bread.",
+        "timeInMinutes": 10,
+        "rating": 4.0
+    },
+    {
+        "id": 9,
+        "title": "Pancakes",
+        "description": "Fluffy and golden pancakes served with maple syrup and butter.",
+        "timeInMinutes": 20,
+        "rating": 4.6
+    },
+    {
+        "id": 10,
+        "title": "Beef Stew",
+        "description": "A hearty and savory stew with tender beef, potatoes, and carrots.",
+        "timeInMinutes": 120,
+        "rating": 4.7
+    }
+]
